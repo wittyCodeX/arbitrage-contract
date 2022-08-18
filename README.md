@@ -1,4 +1,4 @@
-# Simple Dex Arbitrage
+# Multi Dex Arbitrage
 
 ```shell
 https://github.com/ethancrypto/arbitrage-contract.git
