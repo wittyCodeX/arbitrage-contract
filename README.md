@@ -20,3 +20,6 @@ Finally to recover any funds use the script.
 ```shell
 npx hardhat run --network bsc .\scripts\recover.js
 ```
+
+#Verify contract
+$ npx hardhat  verify --network bsc 0x9b45ceD85f1DD3F7C1E1037e373F6E22eB687A1C
