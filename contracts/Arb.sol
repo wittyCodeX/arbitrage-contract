@@ -85,5 +85,5 @@ contract Arb is Ownable {
 		IERC20 token = IERC20(tokenAddress);
 		token.transfer(msg.sender, token.balanceOf(address(this)));
 	}
-
+	receive() external payable{}
 }
