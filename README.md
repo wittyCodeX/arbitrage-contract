@@ -22,4 +22,4 @@ npx hardhat run --network bsc .\scripts\recover.js
 ```
 
 #Verify contract
-$ npx hardhat  verify --network bsc 0x9b45ceD85f1DD3F7C1E1037e373F6E22eB687A1C
+$ npx hardhat  verify --network bsc 0xc98749CbFdb8613D8812Cca2BE06147557644Dd7
